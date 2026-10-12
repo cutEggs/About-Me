@@ -15,20 +15,20 @@
 
 ## About Me
 
-?
+Nah
 
 ---
 
 ## Interests
 
-uh
+Nothing Special...
 
 ---
 
 ## Skills
 
-Basic python and java.
-Amateurish abilities :)
+Basic python and java.\
+Amateurish abilities :/
 
 ---
 
