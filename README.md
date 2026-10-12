@@ -39,10 +39,10 @@ uh
 
 ## Goals
 
-- 學會 Python 基礎程式設計。
-- 學會使用 Git 與 GitHub 管理自己的作品。
-- 建立自己的第一個個人網站。
-- 未來能將程式設計應用在自己的專業領域。
+- Learn
+- Learn
+- Learn
+- Learn
 
 ---
 
@@ -56,4 +56,4 @@ uh
 
 ## A Note to My Future Self
 
-uh
+uh 
