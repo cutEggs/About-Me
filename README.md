@@ -27,26 +27,27 @@ uh
 
 ## Skills
 
-uh
+Basic python and java.
+Amateurish abilities :)
 
 ---
 
 ## Projects
 
-uh
+uh.....
 
 ---
 
 ## Goals
 
-- Learn
-- Learn
-- Learn
-- Learn
+- Learn How to Code.
+- Learn Japanese.
+- Master English.
+- Learn As much things As possible.
 
 ---
 
-## Do Not Contact Me
+## Do Not Contact Me :)
 
 - Email:pohowlin@gmail.com
 - GitHub:<https://github.com/cutEggs>
@@ -56,4 +57,4 @@ uh
 
 ## A Note to My Future Self
 
-uh 
+What is this?
