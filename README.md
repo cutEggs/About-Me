@@ -1,11 +1,11 @@
 ## Profile
 
-| Name | Pohowlin |\ 
+| Name | Pohowlin |\
 | Department & Year | DBB 1st-Grade |\
 | University | NTOU |\
 | Hometown | NewTaipeiCity |\
 | Email | pohowlin@gmail.com |\
-| GitHub | https://github.com/cutEggs |\
+| GitHub | https://github.com/cutEggs |
 
 ### Profile Pic
 
